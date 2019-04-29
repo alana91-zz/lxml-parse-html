@@ -1,6 +1,7 @@
 # lxml-parse-html
 
-TDC 2019 talk on parsing HTMl using the lxml lib. :us:
+:us:
+TDC 2019 talk on parsing HTMl using the lxml lib.
 
 ## How to
 
@@ -32,7 +33,8 @@ then pick the notebook (in **PT_BR** or **EN**) you wish to run from inside the 
 
 ---
 
-Talk do TDC 2019 sobre parse de HTML usando a biblioteca lxml. 🇧🇷
+:br:
+Talk do TDC 2019 sobre parse de HTML usando a biblioteca lxml.
 
 ## How to / Como usar
 
