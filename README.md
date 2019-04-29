@@ -33,7 +33,7 @@ then pick the notebook (in **PT_BR** or **EN**) you wish to run from inside the 
 
 ---
 
-:br:
+🇧🇷
 Talk do TDC 2019 sobre parse de HTML usando a biblioteca lxml.
 
 ## How to / Como usar
