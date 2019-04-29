@@ -8,7 +8,7 @@ TDC 2019 talk on parsing HTMl using the lxml lib.
 ### Just checking the slides / Para ver slides
 
 Just open one of the html files inside `lxml-parse-html`.
-<br>_Simplesmente_ abra um dos arquivos html de dentro de_ `lxml-parse-html`_._
+<br>_Simplesmente abra um dos arquivos html de dentro de_ `lxml-parse-html`_._
 
 ### Running the notebook / Rodar os notebooks
 
