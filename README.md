@@ -1,14 +1,14 @@
 # lxml-parse-html
 
 TDC 2019 talk on parsing HTMl using the lxml lib.
-_Talk do TDC 2019 sobre parse de HTML usando a biblioteca lxml._
+<br>_Talk do TDC 2019 sobre parse de HTML usando a biblioteca lxml._
 
 ## How to / Como usar
 
 ### Just checking the slides / Para ver slides
 
 Just open one of the html files inside `lxml-parse-html`.
-_Simplesmente_ abra um dos arquivos html de dentro de `lxml-parse-html`._
+<br>_Simplesmente_ abra um dos arquivos html de dentro de `lxml-parse-html`._
 
 ### Running the notebook / Rodar os notebooks
 
