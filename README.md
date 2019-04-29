@@ -30,11 +30,8 @@ and then
 
 `$ jupyter notebook`
 
-if using `pip` (remember, inside the virtual env!)
-<br>_se estiver usando_ `pip` _(lembre-se, dentro do virtual env!)_
-
-or
-<br>_ou_
+if using `pip` (remember, inside the virtual env!), or
+<br>_se estiver usando_ `pip` _(lembre-se, dentro do virtual env!), or_
 
 `$ pipenv run jupyter notebook`
 
