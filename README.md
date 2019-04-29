@@ -4,11 +4,11 @@ TDC 2019 talk on parsing HTMl using the lxml lib.
 
 ## How to
 
-### Just checking the slides / Para ver slides
+### Just checking the slides
 
 Just open one of the html files inside `lxml-parse-html`.
 
-### Running the notebook / Rodar os notebooks
+### Running the notebook
 
 At root level:
 
@@ -60,4 +60,4 @@ se estiver usando `pip` (lembre-se, dentro do virtual env!), ou
 
 `$ pipenv run jupyter notebook`
 
-e escolha o notebook (em **PTBR** ou **EN**) que quiser rodar de dentro da pasta `lxml-parse-html`.
+e escolha o notebook (em **PT_BR** ou **EN**) que quiser rodar de dentro da pasta `lxml-parse-html`.
