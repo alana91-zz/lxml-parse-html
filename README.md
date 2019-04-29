@@ -36,7 +36,7 @@ then pick the notebook (in **PT_BR** or **EN**) you wish to run from inside the 
 🇧🇷
 Talk do TDC 2019 sobre parse de HTML usando a biblioteca lxml.
 
-## How to / Como usar
+## Como usar
 
 ### Para ver slides
 
